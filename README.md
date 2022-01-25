@@ -53,6 +53,13 @@
  - Código no vscode code: `console.log("hello world!");`
  - Comando no terminal `node externo.js`
 
+---
+
+## 💻JavaScript em uma página da web
+
+### Como inserir um arquivo javascript dentro de uma página html
+ - `<script src="./assets/js/externo.js"></script>`
+
 
 
 
