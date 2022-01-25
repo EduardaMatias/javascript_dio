@@ -43,6 +43,17 @@
 
 `soma(1, 2); // 3` > chamando a função
 
+---
+
+## 💻Console
+
+### Executando um arquivo .js
+ - É possível executar o js no "inspecionar" nas páginas web na aba "console".
+ - Também é possível executar o js no node.js.
+ - Código no vscode code: `console.log("hello world!");`
+ - Comando no terminal `node externo.js`
+
+
 
 
 
